@@ -1,9 +1,8 @@
 # Pandas Challenge
-## PyCitySchools
-
+## Summary
 This code will sort through relevent information in schools_complete.csv, and students_complete.csv and output information that will be stored in filtedred DataFrames.
 
-
+## PyCitySchools
 Data this code will output:
 
 +  District Summary: starts at line 5
